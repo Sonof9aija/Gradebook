@@ -31,8 +31,3 @@ This file contains the main program that interacts with the gradebook system. It
 2. Implement the required functionalities in your main program using the functions defined in `gradebook.c`.
 3. Compile and run your program to interact with the gradebook system via the command-line interface provided in `gradebook_main.c`.
 4. Follow the commands and prompts to create, manage, and save/load gradebooks as needed.
-
-## Notes
-- Ensure to handle memory management appropriately, such as freeing allocated memory using `free_gradebook`.
-- Use the provided command-line interface (`gradebook_main.c`) as a reference for integrating the gradebook system into your application.
-- Customize the gradebook system as per your requirements, such as modifying data structures, adding new functionalities, or extending file I/O operations.
